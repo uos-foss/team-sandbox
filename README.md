@@ -4,7 +4,7 @@ Welcome to our team's GitHub sandbox! This website is powered by **Beautiful Jek
 
 The purpose of this project is to give everyone on the team a safe, zero-stress environment to practice using GitHub, writing in Markdown, creating branches, and participating in code reviews.
 
-👉 **Live Site URL:** `https://[Your-Org-Name].github.io`
+👉 **Live Site URL:** https://uos-foss.github.io/team-sandbox/
 
 ---
 
