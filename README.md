@@ -4,7 +4,7 @@ Welcome to our team's GitHub sandbox! This website is powered by **Beautiful Jek
 
 The purpose of this project is to give everyone on the team a safe, zero-stress environment to practice using GitHub, writing in Markdown, creating branches, and participating in code reviews.
 
-👉 **Live Site URL:** https://uos-foss.github.io/team-sandbox/
+👉 **Live Site URL:** [`https://[Your-Org-Name].github.io`](https://uos-foss.github.io/team-sandbox/)
 
 ---
 
@@ -33,3 +33,10 @@ You can do all of this directly on the GitHub website using your browser. No cod
    title: "My Awesome First Post!"
    author: "Your Name"
    ---
+   ```
+   5. Below that block, type your post using regular text and **Markdown**. (See the Markdown Cheat Sheet below).
+    
+
+### Step 3: Save and Ask for Review
+
+1. Click the green **Commit changes...** button in the top right. Write a short note about what you did (e.g., _"Added Sarah's intro post"_).
